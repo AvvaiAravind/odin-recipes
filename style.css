@@ -1,0 +1,28 @@
+h1, nav, figcaption {
+    text-align: center;
+   
+} 
+
+nav ul { 
+    list-style-type: none;
+}
+
+nav li {
+    display: inline-block;
+    margin:0 10px;
+}
+
+a:hover {
+    color: rgb(89, 78, 248);
+}
+
+a:visited {
+    color: rgb(89, 78, 200);
+}
+
+img {
+    display: block;
+    height: auto;
+    width: 500px;
+    margin: auto;
+}
